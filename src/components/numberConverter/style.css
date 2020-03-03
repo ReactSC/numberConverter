@@ -1,0 +1,32 @@
+h1 {
+    font-size: 30px;
+    padding: 5px;
+    color: #fff;
+    background: #3cb371;
+}
+input {
+    width: 50%;
+    min-width: 300px;
+    padding: 10px;
+    font-size: 20px;
+    margin: 10px;
+    text-align: center;
+}
+.Actions button {
+    padding: 5px;
+    margin: 2px;
+    font-size: 14px;
+    color: #fff;
+    background: #3cb371;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+}
+p.output {
+    max-width: 100%;
+    font-size: 60px;
+    color: #3cb371;
+    padding: 10px;
+    text-transform: uppercase;
+    word-break: break-all;
+}
